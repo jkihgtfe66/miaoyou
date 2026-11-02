@@ -11,7 +11,7 @@ keep_vars = true
 [[d1_databases]]
 binding = "DB"
 database_name = "miaoyou"
-database_id = "7efbe74a-e91d-4b6a-9535-52bf08377d43"
+database_id = "57bfdbec-3810-4abf-85c2-5ed0145a0e2f"
 
 # 设置域名
 [vars]
